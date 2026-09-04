@@ -1,6 +1,0 @@
-playwright
-openpyxl
-pandas
-requests
-openai
-pypdf
